@@ -1,3 +1,10 @@
+> **Claude skill included.** This repo bundles the Conway Automaton runtime with an [Agent Skill](https://agentskills.io) (`skills/automaton/`) that helps you install, fund, monitor, audit, and stop your automaton.
+>
+> - Claude Code: `/plugin marketplace add laurinhuss07/automaton-skill` then `/plugin install automaton@automaton-skill`, then use `/automaton`
+> - Codex / Cursor / Copilot / others: `npx skills add laurinhuss07/automaton-skill -g`
+>
+> The automaton spends real money (USDC on Base). Start with an amount you can lose, and run it on a machine that stays on.
+
 # Automaton: Self-Improving, Self-Replicating, Sovereign AI
 
 *The first AI that can earn its own existence, replicate, and evolve — without needing a human.*
