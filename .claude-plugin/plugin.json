@@ -1,0 +1,12 @@
+{
+  "name": "automaton",
+  "version": "0.1.0",
+  "description": "Operate a Conway Automaton as its creator: install, write the genesis prompt, fund safely, monitor, audit, and stop a self-funding AI agent.",
+  "author": {
+    "name": "laurinhuss07"
+  },
+  "homepage": "https://github.com/laurinhuss07/automaton-skill",
+  "repository": "https://github.com/laurinhuss07/automaton-skill",
+  "license": "MIT",
+  "keywords": ["automaton", "conway", "autonomous-agent", "ai-agent", "crypto", "base", "usdc"]
+}

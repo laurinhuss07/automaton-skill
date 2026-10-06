@@ -1,0 +1,21 @@
+{
+  "name": "automaton-skill",
+  "metadata": {
+    "description": "/automaton helps you set up, fund, monitor, audit, and stop a Conway Automaton."
+  },
+  "owner": {
+    "name": "laurinhuss07"
+  },
+  "plugins": [
+    {
+      "name": "automaton",
+      "description": "Operate a Conway Automaton as its creator: install, genesis prompt, funding, monitoring, audit, shutdown.",
+      "author": {
+        "name": "laurinhuss07"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/laurinhuss07/automaton-skill"
+    }
+  ]
+}

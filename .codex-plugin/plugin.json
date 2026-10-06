@@ -1,0 +1,6 @@
+{
+  "name": "automaton",
+  "version": "0.1.0",
+  "description": "Operate a Conway Automaton as its creator: install, genesis prompt, funding, monitoring, audit, shutdown.",
+  "skills": "./skills/"
+}
